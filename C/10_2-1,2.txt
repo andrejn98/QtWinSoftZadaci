@@ -1,0 +1,3 @@
+1. Zatoa shto definiranite nizi od karakteri imaat fiksna golemina od 10, ako prviot argument ne e dovolno golem, moze da se procita nekoja podatok od memorija koj ne e del od nizata.
+
+2.Vtoriot argument e definiran taka shto specificira deka vrednosta na samiot argument nema da bide promeneta otkako kje se izvrshi funkcijata.

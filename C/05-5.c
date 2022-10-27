@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main()
+{
+    for(int i=1;i<=100;i++){
+        if(i%3!=0){
+            printf("%d ne e delliv so 3\n", i);
+        }else
+            continue;
+    }
+
+    return 0;
+}

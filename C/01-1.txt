@@ -1,0 +1,21 @@
+a)scanf(“d”, vrednost); 
+
+fali % pred d, treba da bide: scanf(“%d”, vrednost); 
+
+b)printf(“Proizvodot na %d i %d e %d”\n, x, y);
+
+karakterot za nov red e nadvor od " treba da e vnatre ili da go nema: printf(“Proizvodot na %d i %d e %d\n”, x, y);
+ili: printf(“Proizvodot na %d i %d e %d”, x, y);
+
+c)prvBroj + vtorBroj = sumaBroevi
+
+znakot za naznachuvanje vrednost treba da se odnesuva samo na 1 promenliva,
+vo slucajov bi trebalo: sumaBroevi = prvBroj + vtorBroj
+
+d)*/ Programata naogja maksimum od dva broja/*
+
+znacite za komentari se obratno postaveni, bi trebalo: /*Programata naogja maksimum od dva broja*/
+
+e)Scanf(”%d”, &nekojBroj);
+
+funkcijata Scanf treba da e so malo s: scanf(”%d”, &nekojBroj);
